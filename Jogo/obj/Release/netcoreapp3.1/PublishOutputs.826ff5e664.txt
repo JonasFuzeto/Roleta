@@ -1,0 +1,5 @@
+C:\Users\Aluno\source\repos\Jogo\Jogo\bin\publish\Jogo.exe
+C:\Users\Aluno\source\repos\Jogo\Jogo\bin\publish\Jogo.dll
+C:\Users\Aluno\source\repos\Jogo\Jogo\bin\publish\Jogo.deps.json
+C:\Users\Aluno\source\repos\Jogo\Jogo\bin\publish\Jogo.runtimeconfig.json
+C:\Users\Aluno\source\repos\Jogo\Jogo\bin\publish\Jogo.pdb
